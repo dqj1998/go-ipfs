@@ -6,7 +6,7 @@
 [![GoDoc](https://img.shields.io/badge/godoc-reference-5272B4.svg?style=flat-square&cacheSeconds=3600)](https://godoc.org/github.com/ipfs/go-ipfs)
 [![CircleCI](https://img.shields.io/circleci/build/github/ipfs/go-ipfs?style=flat-square&cacheSeconds=3600)](https://circleci.com/gh/ipfs/go-ipfs)
 
-## What is IPFS?
+## What is IPFS-dqj?
 
 IPFS is a global, versioned, peer-to-peer filesystem. It combines good ideas from previous systems such as Git, BitTorrent, Kademlia, SFS, and the Web. It is like a single BitTorrent swarm, exchanging git objects. IPFS provides an interface as simple as the HTTP web, but with permanence built-in. You can also mount the world at /ipfs.
 
